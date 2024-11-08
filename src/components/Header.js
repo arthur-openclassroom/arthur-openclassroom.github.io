@@ -71,7 +71,7 @@ const Header = ({ sectionsRefs }) => {
 
                 {/* Menu mobile */}
                 <ul
-                    className={`md:hidden absolute top-full left-0 w-full bg-gray-800/95 backdrop-blur-sm p-4 space-y-4 transition-all duration-300 
+                    className={`md:hidden text-white absolute top-full left-0 w-full bg-gray-800/95 backdrop-blur-sm p-4 space-y-4 transition-all duration-300 
                         ${menuOpen ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-4 pointer-events-none'}`}
                 >
                     <li>
