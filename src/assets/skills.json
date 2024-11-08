@@ -1,0 +1,32 @@
+[
+    {
+        "name": "JavaScript",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png",
+        "url": "https://developer.mozilla.org/fr/docs/Web/JavaScript"
+    },
+    {
+        "name": "React",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/270px-React-icon.svg.png",
+        "url": "https://react.dev"
+    },
+    {
+        "name": "Node.js",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png",
+        "url": "https://nodejs.org"
+    },
+    {
+        "name": "HTML",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/240px-HTML5_logo_and_wordmark.svg.png",
+        "url": "https://developer.mozilla.org/fr/docs/Web/HTML"
+    },
+    {
+        "name": "CSS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/170px-CSS3_logo_and_wordmark.svg.png",
+        "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
+    },
+    {
+        "name": "Tailwind CSS",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png",
+        "url": "https://tailwindcss.com"
+    }
+]

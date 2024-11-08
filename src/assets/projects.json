@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Booki",
+        "image": "booki.png",
+        "description": "Création de la page d'accueil d'une agence de voyage avec une conception responsive : HTML, CSS.",
+        "repo": "https://github.com/arthur-openclassroom/Booki"
+    },
+    {
+        "name": "Sophie Bluel",
+        "image": "sophiebluel.png",
+        "description": "Portfolio interactif pour mettre en valeur les compétences et réalisations professionnelles d'une architecte d'intérieur : HTML, CSS, JavaScript.",
+        "repo": "https://github.com/arthur-openclassroom/Portfolio-architecte-sophie-bluel"
+    },
+    {
+        "name": "Menu Maker by Qwenta",
+        "image": "qwenta.png",
+        "description": "Gestion de projet d'une application de création de menus interactifs : Monday, Wakelet"
+    },
+    {
+        "name": "Nina Carducci",
+        "image": "ninacarducci.png",
+        "description": "Audit et debug d'un portfolio d'une photographe : HTML, CSS, JavaScript.",
+        "repo": "https://github.com/arthur-openclassroom/nina-carducci"
+    },
+    {
+        "name": "Kasa",
+        "image": "kasa.png",
+        "description": "Site immobilier interactif pour faciliter la recherche et la réservation de biens immobiliers : HTML, CSS, React (JavaScript).",
+        "repo": "https://github.com/arthur-openclassroom/kasa"
+    },
+    {
+        "name": "Mon vieux grimoire",
+        "image": "monvieuxgrimoire.png",
+        "description": "Développement du backend d'un site de notation de livres, développé : Node, Express, MongoDB.",
+        "repo": "https://github.com/arthur-openclassroom/mon-vieux-grimoire"
+    }
+]
