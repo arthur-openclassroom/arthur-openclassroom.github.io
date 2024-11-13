@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import heroVideo from '../assets/hero.mp4'; // Import de la vidéo
-import heroImage from '../assets/hero.webp'; // Import de l'image de fallback
+import heroVideo from '../assets/hero.mp4';
+import heroImage from '../assets/hero.webp';
 import SmoothScroll from './SmoothScroll';
 
 const HeroSection = ({ scrollToRef }) => {
