@@ -42,7 +42,7 @@ const Contact = () => {
                 <button type="submit" className="w-full max-w-md bg-blue-600 text-white font-bold py-3 rounded hover:bg-blue-700 transition duration-200">Envoyer</button>
             </form>
             <ToastContainer position="bottom-center" autoClose={5000} hideProgressBar={false} newestOnTop={false} closeOnClick rtl={false} pauseOnFocusLoss draggable pauseOnHover />
-            <span className="mt-4 flex justify-center gap-1">Vous pouvez me trouver sur <a href="https://www.linkedin.com/in/arthur-lambotte/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline flex gap-1"><img className='w-6 h-6 cursor-pointer' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />LinkedIn</a>.</span>
+            <span className="mt-4 flex justify-center gap-1">Vous pouvez aussi me trouver sur <a href="https://www.linkedin.com/in/arthur-lambotte/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline flex gap-1"><img className='w-6 h-6 cursor-pointer' src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/240px-LinkedIn_logo_initials.png" />LinkedIn</a>.</span>
         </section>
     );
 };
